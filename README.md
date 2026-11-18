@@ -134,3 +134,11 @@ git push origin main
 | サイトの日本語が文字化けする | `index.html` の `<head>` に `<meta charset="UTF-8">` が入っているか確認しましょう |
 
 ほかの困りごとは，[第7回の資料の「困ったときは」](https://github.com/tomohitoy/oss-practice-2026/blob/main-07/chap07/README.md#困ったときは)を見てください．
+
+## 自己紹介サイト
+
+このリポジトリは、オープンソースソフトウェアの授業で作成した自己紹介サイトです。
+
+HTMLとCSSを使って、勉強していることや興味があることを紹介しています。
+
+公開サイト：https://g484072024.github.io/
